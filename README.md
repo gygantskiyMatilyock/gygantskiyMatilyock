@@ -37,18 +37,6 @@ High schooler by day, shipping products by night
 
 ---
 
-### Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gygantskiyMatilyock&show_icons=true&hide_border=true&bg_color=00000000&title_color=000&icon_color=555&text_color=555&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gygantskiyMatilyock&layout=compact&hide_border=true&bg_color=00000000&title_color=000&text_color=555)
-
-</div>
-
----
-
 <div align="center">
 
 🌍 English · Español · Català · Русский
